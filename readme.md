@@ -2,7 +2,7 @@
 
 Simple algoritm used to rename music files with track metadata.
  The algorithm will read the meta tags of the track (name and author) and rename them in the format: "name - author".
- The algorithm is configured for .mp3 files, but can be easily changed in the 'RenameFile' class.
+ The algorithm is configured for .mp3 files, but can be easily changed in the 'RenameFile' class (available in the 'com.mpatric.impl' package).
 
 ## How to run the algorithm
 
