@@ -7,7 +7,10 @@ Simple algoritm used to rename music files with track metadata.
 ## How to run the algorithm
 
  *Consider having Java installed.
- Use an IDE like Eclipse to generate executable .jar.
+ 
+ You can simply download the renameMp3File.jar file and run the desired folder.
+	
+ Or use an IDE like Eclipse to generate executable .jar.
  Open the IDE, right click on the project, Export, Java, Runnable JAR File, select the directory and finish.
  To execute put the .jar in the desired folder and in two clicks, if the java is installed it will work.
 
